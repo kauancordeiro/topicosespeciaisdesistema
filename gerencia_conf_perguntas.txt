@@ -1,0 +1,37 @@
+Porque é importante usar gerência de configuração?
+
+	- a falta pode causar sérios problemas com confiabilidade, tempo de atividade 
+	e escalabilidade do sistema.
+	- permite a absorção ordenada das mudanças inerentes ao desenvolvimento de software,
+ 	mantendo a integridade e a estabilidade durante a evolução do projeto
+
+O que é integração contínua em um projeto de software ?
+
+	- uma prática de desenvolvimento de software que visa tornar a integração de código mais 
+	- eficiente, através de builds e testes automatizados
+
+
+Quais ferramentas podem ser usadas para verificar débito técnico ?
+	- Débito técnico: representa o custo implícito de uma implementação/solução pensada somente no agora,
+	 em vez de usar uma abordagem com melhor qualidade porém que levaria mais tempo.
+	-  Existem diversas ferramentas para isto e a mais conhecida é o SonarQube.
+
+Quais ferramentas podem ser usadas para realizar a integração contínua ?
+
+	Jenkins. 
+	Travis
+	GitlabCI
+	Hudson
+	CruiseControl
+	Bamboo
+	Team City
+
+O que é DevOps ?
+
+	-Com base na comunicação e colaboração, o devOps permite a integração das equipes, padronizando 
+	e implementando mais velocidade nos processos. Sua atuação agrega um ciclo de planejamento e 
+	idealização, seguindo pelo desenvolvimento até o feedback do resultado final.
+
+Qual o relacionamento da integração contínua com o conceito de DevOps
+	-A integração contínua é uma prática de desenvolvimento de software de DevOps em que os desenvolvedores, 
+	com frequência, juntam suas alterações de código em um repositório central.
